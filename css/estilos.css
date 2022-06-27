@@ -37,3 +37,12 @@ body {
 #post {
     padding: 1em
 }
+
+h1 {
+    font-size: 20px
+}
+
+h1 {
+    background: #2ff;
+    padding: 1em
+}
